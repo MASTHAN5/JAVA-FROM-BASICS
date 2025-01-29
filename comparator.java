@@ -1,4 +1,4 @@
-//comparion operator
+//comparsion operator
 import java.util.Scanner;
 
 public class comparator {
